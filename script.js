@@ -53,7 +53,7 @@ flagsElement.addEventListener('click', (e) => {
 
 /*===== class active por secciones =====*/
 window.addEventListener('scroll', () => {
-    const scrollY = window.pageYOffset;
+    const   scrollY = window.pageYOffset;
     sectionAll.forEach((current) => {
         const sectionHeight = current.offsetHeight;
         const sectionTop = current.offsetTop - 100;

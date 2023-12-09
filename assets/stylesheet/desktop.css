@@ -70,12 +70,14 @@ div.btn {
 
 .image_home {
     object-fit: contain;
+    
 }
 
 .home_info {
     width: 40%;
     padding-left: 6rem;
 }
+
 
 .container_text-info {
     display: flex;
