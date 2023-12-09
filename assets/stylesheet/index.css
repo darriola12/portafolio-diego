@@ -277,7 +277,7 @@ span+span {
 }
 
 .image_home {
-    
+
     max-width: 65%;
     transition: .4s;
     animation: image 2s;
@@ -427,9 +427,10 @@ span+span {
 }
 
 .image_sobreMi {
-    width: 65%;
+    width: 58%;
     margin-bottom: 5rem;
     border-bottom: 2px solid var(--jet);
+    border-radius: 7px;
 }
 
 /* Habilidades */
